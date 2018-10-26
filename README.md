@@ -41,7 +41,7 @@ Equal
 ```
 
 #### 函数解析
-**kenGen(key,param,pairing) **
+**kenGen(key,param,pairing)**
 key有两个成员，priv和pub，先随机生成priv=alpha，再随机生成pub.g，计算g^al
 
 **H1(W1)**
@@ -63,7 +63,7 @@ H2(t)->peks.B
 
 
 
-*This work was a part of the master thesis from TU Dresden under the supervision of Dr. Josef Spillner and Martin Beck.
+This work was a part of the master thesis from TU Dresden under the supervision of Dr. Josef Spillner and Martin Beck.
 
 ## [Public Key Encryption with Keyword Search](http://eprint.iacr.org/2003/195.pdf) 
 
